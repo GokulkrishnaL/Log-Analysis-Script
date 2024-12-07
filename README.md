@@ -39,12 +39,10 @@ The **Log Analysis Tool** is a Python-based application designed to process serv
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/log-analysis-tool.git
+   git clone https://github.com/GokulkrishnaL/log-analysis-tool.git
    cd log-analysis-tool
    ```
 2. Install the required dependencies:
-
-
 ---
 
 ## Usage
