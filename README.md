@@ -128,3 +128,5 @@ Contributions are welcome! If you'd like to contribute:
 4. Open a pull request and describe your changes.
 
 ---
+
+License This project is licensed under the MIT License.
